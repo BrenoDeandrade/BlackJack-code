@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699568650 source:c:\users\breno\desktop\algoritimos\while\blackjack\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<locale.h>
+
